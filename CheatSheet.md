@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cheat Sheet
+description: edited version in fork owned by doswellf
 ---
 
 This cheat sheet originated from the forum, credits to Laurent Poulain.
